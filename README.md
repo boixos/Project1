@@ -1,1 +1,1 @@
-FIFA 19 Data analysis and Clustring using Kmeans, DBSCAN
+FIFA 19 Data analysis and Clustring using Kmeans, Hierarchical, DBSCAN
